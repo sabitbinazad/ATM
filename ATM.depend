@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1715851719 source:c:\users\sabit\desktop\sp projt\atm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
